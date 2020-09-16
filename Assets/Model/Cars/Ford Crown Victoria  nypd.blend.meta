@@ -1,0 +1,2377 @@
+fileFormatVersion: 2
+guid: 676d2a84e699f0d46b9ccb6bbd2e5ea3
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Car Rig
+  - first:
+      1: 100002
+    second: Car Rig.001
+  - first:
+      1: 100004
+    second: CrownVic.Body
+  - first:
+      1: 100006
+    second: CrownVic.Body.001
+  - first:
+      1: 100008
+    second: CrownVic.Wheel.Bk.L
+  - first:
+      1: 100010
+    second: CrownVic.Wheel.Bk.L.001
+  - first:
+      1: 100012
+    second: CrownVic.Wheel.Bk.R
+  - first:
+      1: 100014
+    second: CrownVic.Wheel.Bk.R.001
+  - first:
+      1: 100016
+    second: CrownVic.Wheel.Ft.L
+  - first:
+      1: 100018
+    second: CrownVic.Wheel.Ft.L.001
+  - first:
+      1: 100020
+    second: CrownVic.Wheel.Ft.R
+  - first:
+      1: 100022
+    second: CrownVic.Wheel.Ft.R.001
+  - first:
+      1: 100024
+    second: CrownVic.WheelBrake.Bk.L
+  - first:
+      1: 100026
+    second: CrownVic.WheelBrake.Bk.L.001
+  - first:
+      1: 100028
+    second: CrownVic.WheelBrake.Bk.R
+  - first:
+      1: 100030
+    second: CrownVic.WheelBrake.Bk.R.001
+  - first:
+      1: 100032
+    second: CrownVic.WheelBrake.Ft.L
+  - first:
+      1: 100034
+    second: CrownVic.WheelBrake.Ft.L.001
+  - first:
+      1: 100036
+    second: CrownVic.WheelBrake.Ft.R
+  - first:
+      1: 100038
+    second: CrownVic.WheelBrake.Ft.R.001
+  - first:
+      1: 100040
+    second: Cube
+  - first:
+      1: 100042
+    second: Cube.001
+  - first:
+      1: 100044
+    second: Cube.002
+  - first:
+      1: 100046
+    second: Cube.003
+  - first:
+      1: 100048
+    second: Cube.004
+  - first:
+      1: 100050
+    second: Cube.005
+  - first:
+      1: 100052
+    second: Cube.006
+  - first:
+      1: 100054
+    second: Cube.009
+  - first:
+      1: 100056
+    second: Cube.010
+  - first:
+      1: 100058
+    second: DEF-Body
+  - first:
+      1: 100060
+    second: DEF-Body 1
+  - first:
+      1: 100062
+    second: DEF-Body_end
+  - first:
+      1: 100064
+    second: DEF-Body_end 1
+  - first:
+      1: 100066
+    second: DEF-Wheel.Bk.L
+  - first:
+      1: 100068
+    second: DEF-Wheel.Bk.L 1
+  - first:
+      1: 100070
+    second: DEF-Wheel.Bk.L_end
+  - first:
+      1: 100072
+    second: DEF-Wheel.Bk.L_end 1
+  - first:
+      1: 100074
+    second: DEF-Wheel.Bk.R
+  - first:
+      1: 100076
+    second: DEF-Wheel.Bk.R 1
+  - first:
+      1: 100078
+    second: DEF-Wheel.Bk.R_end
+  - first:
+      1: 100080
+    second: DEF-Wheel.Bk.R_end 1
+  - first:
+      1: 100082
+    second: DEF-Wheel.Ft.L
+  - first:
+      1: 100084
+    second: DEF-Wheel.Ft.L 1
+  - first:
+      1: 100086
+    second: DEF-Wheel.Ft.L_end
+  - first:
+      1: 100088
+    second: DEF-Wheel.Ft.L_end 1
+  - first:
+      1: 100090
+    second: DEF-Wheel.Ft.R
+  - first:
+      1: 100092
+    second: DEF-Wheel.Ft.R 1
+  - first:
+      1: 100094
+    second: DEF-Wheel.Ft.R_end
+  - first:
+      1: 100096
+    second: DEF-Wheel.Ft.R_end 1
+  - first:
+      1: 100098
+    second: DEF-WheelBrake.Bk.L
+  - first:
+      1: 100100
+    second: DEF-WheelBrake.Bk.L 1
+  - first:
+      1: 100102
+    second: DEF-WheelBrake.Bk.L_end
+  - first:
+      1: 100104
+    second: DEF-WheelBrake.Bk.L_end 1
+  - first:
+      1: 100106
+    second: DEF-WheelBrake.Bk.R
+  - first:
+      1: 100108
+    second: DEF-WheelBrake.Bk.R 1
+  - first:
+      1: 100110
+    second: DEF-WheelBrake.Bk.R_end
+  - first:
+      1: 100112
+    second: DEF-WheelBrake.Bk.R_end 1
+  - first:
+      1: 100114
+    second: DEF-WheelBrake.Ft.L
+  - first:
+      1: 100116
+    second: DEF-WheelBrake.Ft.L 1
+  - first:
+      1: 100118
+    second: DEF-WheelBrake.Ft.L_end
+  - first:
+      1: 100120
+    second: DEF-WheelBrake.Ft.L_end 1
+  - first:
+      1: 100122
+    second: DEF-WheelBrake.Ft.R
+  - first:
+      1: 100124
+    second: DEF-WheelBrake.Ft.R 1
+  - first:
+      1: 100126
+    second: DEF-WheelBrake.Ft.R_end
+  - first:
+      1: 100128
+    second: DEF-WheelBrake.Ft.R_end 1
+  - first:
+      1: 100130
+    second: Drift
+  - first:
+      1: 100132
+    second: Drift 1
+  - first:
+      1: 100134
+    second: //RootNode
+  - first:
+      1: 100136
+    second: GroundSensor.Axle.Bk
+  - first:
+      1: 100138
+    second: GroundSensor.Axle.Bk 1
+  - first:
+      1: 100140
+    second: GroundSensor.Axle.Ft
+  - first:
+      1: 100142
+    second: GroundSensor.Axle.Ft 1
+  - first:
+      1: 100144
+    second: GroundSensor.Bk.L
+  - first:
+      1: 100146
+    second: GroundSensor.Bk.L 1
+  - first:
+      1: 100148
+    second: GroundSensor.Bk.R
+  - first:
+      1: 100150
+    second: GroundSensor.Bk.R 1
+  - first:
+      1: 100152
+    second: GroundSensor.Ft.L
+  - first:
+      1: 100154
+    second: GroundSensor.Ft.L 1
+  - first:
+      1: 100156
+    second: GroundSensor.Ft.R
+  - first:
+      1: 100158
+    second: GroundSensor.Ft.R 1
+  - first:
+      1: 100160
+    second: interior
+  - first:
+      1: 100162
+    second: interior.001
+  - first:
+      1: 100164
+    second: licence plate
+  - first:
+      1: 100166
+    second: MCH-Axis
+  - first:
+      1: 100168
+    second: MCH-Axis 1
+  - first:
+      1: 100170
+    second: MCH-Axis.Bk
+  - first:
+      1: 100172
+    second: MCH-Axis.Bk 1
+  - first:
+      1: 100174
+    second: MCH-Axis.Bk_end
+  - first:
+      1: 100176
+    second: MCH-Axis.Bk_end 1
+  - first:
+      1: 100178
+    second: MCH-Axis.Ft
+  - first:
+      1: 100180
+    second: MCH-Axis.Ft 1
+  - first:
+      1: 100182
+    second: MCH-Axis.Ft_end
+  - first:
+      1: 100184
+    second: MCH-Axis.Ft_end 1
+  - first:
+      1: 100186
+    second: MCH-Body
+  - first:
+      1: 100188
+    second: MCH-Body 1
+  - first:
+      1: 100190
+    second: MCH-Body_end
+  - first:
+      1: 100192
+    second: MCH-Body_end 1
+  - first:
+      1: 100194
+    second: MCH-Root.Axle.Bk
+  - first:
+      1: 100196
+    second: MCH-Root.Axle.Bk 1
+  - first:
+      1: 100198
+    second: MCH-Root.Axle.Ft
+  - first:
+      1: 100200
+    second: MCH-Root.Axle.Ft 1
+  - first:
+      1: 100202
+    second: MCH-Root.Axle.Ft_end
+  - first:
+      1: 100204
+    second: MCH-Root.Axle.Ft_end 1
+  - first:
+      1: 100206
+    second: MCH-Steering
+  - first:
+      1: 100208
+    second: MCH-Steering 1
+  - first:
+      1: 100210
+    second: MCH-Steering.rotation
+  - first:
+      1: 100212
+    second: MCH-Steering.rotation 1
+  - first:
+      1: 100214
+    second: MCH-Steering_end
+  - first:
+      1: 100216
+    second: MCH-Steering_end 1
+  - first:
+      1: 100218
+    second: MCH-Suspension.Bk
+  - first:
+      1: 100220
+    second: MCH-Suspension.Bk 1
+  - first:
+      1: 100222
+    second: MCH-Suspension.Bk_end
+  - first:
+      1: 100224
+    second: MCH-Suspension.Bk_end 1
+  - first:
+      1: 100226
+    second: MCH-Suspension.Ft
+  - first:
+      1: 100228
+    second: MCH-Suspension.Ft 1
+  - first:
+      1: 100230
+    second: MCH-Wheel.Bk.L
+  - first:
+      1: 100232
+    second: MCH-Wheel.Bk.L 1
+  - first:
+      1: 100234
+    second: MCH-Wheel.Bk.L_end
+  - first:
+      1: 100236
+    second: MCH-Wheel.Bk.L_end 1
+  - first:
+      1: 100238
+    second: MCH-Wheel.Bk.R
+  - first:
+      1: 100240
+    second: MCH-Wheel.Bk.R 1
+  - first:
+      1: 100242
+    second: MCH-Wheel.Bk.R_end
+  - first:
+      1: 100244
+    second: MCH-Wheel.Bk.R_end 1
+  - first:
+      1: 100246
+    second: MCH-Wheel.Ft.L
+  - first:
+      1: 100248
+    second: MCH-Wheel.Ft.L 1
+  - first:
+      1: 100250
+    second: MCH-Wheel.Ft.L_end
+  - first:
+      1: 100252
+    second: MCH-Wheel.Ft.L_end 1
+  - first:
+      1: 100254
+    second: MCH-Wheel.Ft.R
+  - first:
+      1: 100256
+    second: MCH-Wheel.Ft.R 1
+  - first:
+      1: 100258
+    second: MCH-Wheel.Ft.R_end
+  - first:
+      1: 100260
+    second: MCH-Wheel.Ft.R_end 1
+  - first:
+      1: 100262
+    second: MCH-Wheel.rotation.Bk.L
+  - first:
+      1: 100264
+    second: MCH-Wheel.rotation.Bk.L 1
+  - first:
+      1: 100266
+    second: MCH-Wheel.rotation.Bk.L_end
+  - first:
+      1: 100268
+    second: MCH-Wheel.rotation.Bk.L_end 1
+  - first:
+      1: 100270
+    second: MCH-Wheel.rotation.Bk.R
+  - first:
+      1: 100272
+    second: MCH-Wheel.rotation.Bk.R 1
+  - first:
+      1: 100274
+    second: MCH-Wheel.rotation.Bk.R_end
+  - first:
+      1: 100276
+    second: MCH-Wheel.rotation.Bk.R_end 1
+  - first:
+      1: 100278
+    second: MCH-Wheel.rotation.Ft.L
+  - first:
+      1: 100280
+    second: MCH-Wheel.rotation.Ft.L 1
+  - first:
+      1: 100282
+    second: MCH-Wheel.rotation.Ft.L_end
+  - first:
+      1: 100284
+    second: MCH-Wheel.rotation.Ft.L_end 1
+  - first:
+      1: 100286
+    second: MCH-Wheel.rotation.Ft.R
+  - first:
+      1: 100288
+    second: MCH-Wheel.rotation.Ft.R 1
+  - first:
+      1: 100290
+    second: MCH-Wheel.rotation.Ft.R_end
+  - first:
+      1: 100292
+    second: MCH-Wheel.rotation.Ft.R_end 1
+  - first:
+      1: 100294
+    second: MCH-WheelBrake.Bk.L
+  - first:
+      1: 100296
+    second: MCH-WheelBrake.Bk.L 1
+  - first:
+      1: 100298
+    second: MCH-WheelBrake.Bk.R
+  - first:
+      1: 100300
+    second: MCH-WheelBrake.Bk.R 1
+  - first:
+      1: 100302
+    second: MCH-WheelBrake.Bk.R_end
+  - first:
+      1: 100304
+    second: MCH-WheelBrake.Bk.R_end 1
+  - first:
+      1: 100306
+    second: MCH-WheelBrake.Ft.L
+  - first:
+      1: 100308
+    second: MCH-WheelBrake.Ft.L 1
+  - first:
+      1: 100310
+    second: MCH-WheelBrake.Ft.R
+  - first:
+      1: 100312
+    second: MCH-WheelBrake.Ft.R 1
+  - first:
+      1: 100314
+    second: MCH-WheelBrake.Ft.R_end
+  - first:
+      1: 100316
+    second: MCH-WheelBrake.Ft.R_end 1
+  - first:
+      1: 100318
+    second: MCH-WheelDamper.Bk.L
+  - first:
+      1: 100320
+    second: MCH-WheelDamper.Bk.L 1
+  - first:
+      1: 100322
+    second: MCH-WheelDamper.Bk.L_end
+  - first:
+      1: 100324
+    second: MCH-WheelDamper.Bk.L_end 1
+  - first:
+      1: 100326
+    second: MCH-WheelDamper.Bk.R
+  - first:
+      1: 100328
+    second: MCH-WheelDamper.Bk.R 1
+  - first:
+      1: 100330
+    second: MCH-WheelDamper.Bk.R_end
+  - first:
+      1: 100332
+    second: MCH-WheelDamper.Bk.R_end 1
+  - first:
+      1: 100334
+    second: MCH-WheelDamper.Ft.L
+  - first:
+      1: 100336
+    second: MCH-WheelDamper.Ft.L 1
+  - first:
+      1: 100338
+    second: MCH-WheelDamper.Ft.L_end
+  - first:
+      1: 100340
+    second: MCH-WheelDamper.Ft.L_end 1
+  - first:
+      1: 100342
+    second: MCH-WheelDamper.Ft.R
+  - first:
+      1: 100344
+    second: MCH-WheelDamper.Ft.R 1
+  - first:
+      1: 100346
+    second: MCH-WheelDamper.Ft.R_end
+  - first:
+      1: 100348
+    second: MCH-WheelDamper.Ft.R_end 1
+  - first:
+      1: 100350
+    second: Plane
+  - first:
+      1: 100352
+    second: Plane.001
+  - first:
+      1: 100354
+    second: Root
+  - first:
+      1: 100356
+    second: Root 1
+  - first:
+      1: 100358
+    second: SHP-Drift
+  - first:
+      1: 100360
+    second: SHP-Drift 1
+  - first:
+      1: 100362
+    second: SHP-Drift_end
+  - first:
+      1: 100364
+    second: SHP-Drift_end 1
+  - first:
+      1: 100366
+    second: SHP-GroundSensor.Axle.Bk
+  - first:
+      1: 100368
+    second: SHP-GroundSensor.Axle.Bk 1
+  - first:
+      1: 100370
+    second: SHP-GroundSensor.Axle.Bk_end
+  - first:
+      1: 100372
+    second: SHP-GroundSensor.Axle.Bk_end 1
+  - first:
+      1: 100374
+    second: SHP-GroundSensor.Axle.Ft
+  - first:
+      1: 100376
+    second: SHP-GroundSensor.Axle.Ft 1
+  - first:
+      1: 100378
+    second: SHP-GroundSensor.Axle.Ft_end
+  - first:
+      1: 100380
+    second: SHP-GroundSensor.Axle.Ft_end 1
+  - first:
+      1: 100382
+    second: SHP-GroundSensor.Bk.L
+  - first:
+      1: 100384
+    second: SHP-GroundSensor.Bk.L 1
+  - first:
+      1: 100386
+    second: SHP-GroundSensor.Bk.L_end
+  - first:
+      1: 100388
+    second: SHP-GroundSensor.Bk.L_end 1
+  - first:
+      1: 100390
+    second: SHP-GroundSensor.Bk.R
+  - first:
+      1: 100392
+    second: SHP-GroundSensor.Bk.R 1
+  - first:
+      1: 100394
+    second: SHP-GroundSensor.Bk.R_end
+  - first:
+      1: 100396
+    second: SHP-GroundSensor.Bk.R_end 1
+  - first:
+      1: 100398
+    second: SHP-GroundSensor.Ft.L
+  - first:
+      1: 100400
+    second: SHP-GroundSensor.Ft.L 1
+  - first:
+      1: 100402
+    second: SHP-GroundSensor.Ft.L_end
+  - first:
+      1: 100404
+    second: SHP-GroundSensor.Ft.L_end 1
+  - first:
+      1: 100406
+    second: SHP-GroundSensor.Ft.R
+  - first:
+      1: 100408
+    second: SHP-GroundSensor.Ft.R 1
+  - first:
+      1: 100410
+    second: SHP-GroundSensor.Ft.R_end
+  - first:
+      1: 100412
+    second: SHP-GroundSensor.Ft.R_end 1
+  - first:
+      1: 100414
+    second: SHP-Root
+  - first:
+      1: 100416
+    second: SHP-Root 1
+  - first:
+      1: 100418
+    second: SHP-Root_end
+  - first:
+      1: 100420
+    second: SHP-Root_end 1
+  - first:
+      1: 100422
+    second: Steering
+  - first:
+      1: 100424
+    second: Steering 1
+  - first:
+      1: 100426
+    second: Steering_end
+  - first:
+      1: 100428
+    second: Steering_end 1
+  - first:
+      1: 100430
+    second: Suspension
+  - first:
+      1: 100432
+    second: Suspension 1
+  - first:
+      1: 100434
+    second: Suspension_end
+  - first:
+      1: 100436
+    second: Suspension_end 1
+  - first:
+      1: 100438
+    second: WGT-CarRig.DriftHandle
+  - first:
+      1: 100440
+    second: WGT-CarRig.DriftHandle.001
+  - first:
+      1: 100442
+    second: WGT-CarRig.GroundSensor
+  - first:
+      1: 100444
+    second: WGT-CarRig.GroundSensor.001
+  - first:
+      1: 100446
+    second: WGT-CarRig.GroundSensor.Axle
+  - first:
+      1: 100448
+    second: WGT-CarRig.GroundSensor.Axle.001
+  - first:
+      1: 100450
+    second: WGT-CarRig.Root
+  - first:
+      1: 100452
+    second: WGT-CarRig.Root.001
+  - first:
+      1: 100454
+    second: WGT-CarRig.Steering
+  - first:
+      1: 100456
+    second: WGT-CarRig.Steering.001
+  - first:
+      1: 100458
+    second: WGT-CarRig.Suspension
+  - first:
+      1: 100460
+    second: WGT-CarRig.Suspension.001
+  - first:
+      1: 100462
+    second: WGT-CarRig.Wheel
+  - first:
+      1: 100464
+    second: WGT-CarRig.Wheel.001
+  - first:
+      1: 100466
+    second: WGT-CarRig.WheelBrake
+  - first:
+      1: 100468
+    second: WGT-CarRig.WheelBrake.001
+  - first:
+      1: 100470
+    second: WGT-CarRig.WheelDamper
+  - first:
+      1: 100472
+    second: WGT-CarRig.WheelDamper.001
+  - first:
+      1: 100474
+    second: Wheel.Bk.L
+  - first:
+      1: 100476
+    second: Wheel.Bk.L 1
+  - first:
+      1: 100478
+    second: Wheel.Bk.L_end
+  - first:
+      1: 100480
+    second: Wheel.Bk.L_end 1
+  - first:
+      1: 100482
+    second: Wheel.Bk.R
+  - first:
+      1: 100484
+    second: Wheel.Bk.R 1
+  - first:
+      1: 100486
+    second: Wheel.Bk.R_end
+  - first:
+      1: 100488
+    second: Wheel.Bk.R_end 1
+  - first:
+      1: 100490
+    second: Wheel.Ft.L
+  - first:
+      1: 100492
+    second: Wheel.Ft.L 1
+  - first:
+      1: 100494
+    second: Wheel.Ft.L_end
+  - first:
+      1: 100496
+    second: Wheel.Ft.L_end 1
+  - first:
+      1: 100498
+    second: Wheel.Ft.R
+  - first:
+      1: 100500
+    second: Wheel.Ft.R 1
+  - first:
+      1: 100502
+    second: Wheel.Ft.R_end
+  - first:
+      1: 100504
+    second: Wheel.Ft.R_end 1
+  - first:
+      1: 100506
+    second: WheelBrake.Bk.L
+  - first:
+      1: 100508
+    second: WheelBrake.Bk.L 1
+  - first:
+      1: 100510
+    second: WheelBrake.Bk.L_end
+  - first:
+      1: 100512
+    second: WheelBrake.Bk.L_end 1
+  - first:
+      1: 100514
+    second: WheelBrake.Ft.L
+  - first:
+      1: 100516
+    second: WheelBrake.Ft.L 1
+  - first:
+      1: 100518
+    second: WheelBrake.Ft.L_end
+  - first:
+      1: 100520
+    second: WheelBrake.Ft.L_end 1
+  - first:
+      1: 100522
+    second: WheelDamper.Bk.L
+  - first:
+      1: 100524
+    second: WheelDamper.Bk.L 1
+  - first:
+      1: 100526
+    second: WheelDamper.Bk.R
+  - first:
+      1: 100528
+    second: WheelDamper.Bk.R 1
+  - first:
+      1: 100530
+    second: WheelDamper.Ft.L
+  - first:
+      1: 100532
+    second: WheelDamper.Ft.L 1
+  - first:
+      1: 100534
+    second: WheelDamper.Ft.R
+  - first:
+      1: 100536
+    second: WheelDamper.Ft.R 1
+  - first:
+      1: 100538
+    second: windows glass
+  - first:
+      1: 100540
+    second: windows glass.001
+  - first:
+      1: 100542
+    second: windows glass.002
+  - first:
+      4: 400000
+    second: Car Rig
+  - first:
+      4: 400002
+    second: Car Rig.001
+  - first:
+      4: 400004
+    second: CrownVic.Body
+  - first:
+      4: 400006
+    second: CrownVic.Body.001
+  - first:
+      4: 400008
+    second: CrownVic.Wheel.Bk.L
+  - first:
+      4: 400010
+    second: CrownVic.Wheel.Bk.L.001
+  - first:
+      4: 400012
+    second: CrownVic.Wheel.Bk.R
+  - first:
+      4: 400014
+    second: CrownVic.Wheel.Bk.R.001
+  - first:
+      4: 400016
+    second: CrownVic.Wheel.Ft.L
+  - first:
+      4: 400018
+    second: CrownVic.Wheel.Ft.L.001
+  - first:
+      4: 400020
+    second: CrownVic.Wheel.Ft.R
+  - first:
+      4: 400022
+    second: CrownVic.Wheel.Ft.R.001
+  - first:
+      4: 400024
+    second: CrownVic.WheelBrake.Bk.L
+  - first:
+      4: 400026
+    second: CrownVic.WheelBrake.Bk.L.001
+  - first:
+      4: 400028
+    second: CrownVic.WheelBrake.Bk.R
+  - first:
+      4: 400030
+    second: CrownVic.WheelBrake.Bk.R.001
+  - first:
+      4: 400032
+    second: CrownVic.WheelBrake.Ft.L
+  - first:
+      4: 400034
+    second: CrownVic.WheelBrake.Ft.L.001
+  - first:
+      4: 400036
+    second: CrownVic.WheelBrake.Ft.R
+  - first:
+      4: 400038
+    second: CrownVic.WheelBrake.Ft.R.001
+  - first:
+      4: 400040
+    second: Cube
+  - first:
+      4: 400042
+    second: Cube.001
+  - first:
+      4: 400044
+    second: Cube.002
+  - first:
+      4: 400046
+    second: Cube.003
+  - first:
+      4: 400048
+    second: Cube.004
+  - first:
+      4: 400050
+    second: Cube.005
+  - first:
+      4: 400052
+    second: Cube.006
+  - first:
+      4: 400054
+    second: Cube.009
+  - first:
+      4: 400056
+    second: Cube.010
+  - first:
+      4: 400058
+    second: DEF-Body
+  - first:
+      4: 400060
+    second: DEF-Body 1
+  - first:
+      4: 400062
+    second: DEF-Body_end
+  - first:
+      4: 400064
+    second: DEF-Body_end 1
+  - first:
+      4: 400066
+    second: DEF-Wheel.Bk.L
+  - first:
+      4: 400068
+    second: DEF-Wheel.Bk.L 1
+  - first:
+      4: 400070
+    second: DEF-Wheel.Bk.L_end
+  - first:
+      4: 400072
+    second: DEF-Wheel.Bk.L_end 1
+  - first:
+      4: 400074
+    second: DEF-Wheel.Bk.R
+  - first:
+      4: 400076
+    second: DEF-Wheel.Bk.R 1
+  - first:
+      4: 400078
+    second: DEF-Wheel.Bk.R_end
+  - first:
+      4: 400080
+    second: DEF-Wheel.Bk.R_end 1
+  - first:
+      4: 400082
+    second: DEF-Wheel.Ft.L
+  - first:
+      4: 400084
+    second: DEF-Wheel.Ft.L 1
+  - first:
+      4: 400086
+    second: DEF-Wheel.Ft.L_end
+  - first:
+      4: 400088
+    second: DEF-Wheel.Ft.L_end 1
+  - first:
+      4: 400090
+    second: DEF-Wheel.Ft.R
+  - first:
+      4: 400092
+    second: DEF-Wheel.Ft.R 1
+  - first:
+      4: 400094
+    second: DEF-Wheel.Ft.R_end
+  - first:
+      4: 400096
+    second: DEF-Wheel.Ft.R_end 1
+  - first:
+      4: 400098
+    second: DEF-WheelBrake.Bk.L
+  - first:
+      4: 400100
+    second: DEF-WheelBrake.Bk.L 1
+  - first:
+      4: 400102
+    second: DEF-WheelBrake.Bk.L_end
+  - first:
+      4: 400104
+    second: DEF-WheelBrake.Bk.L_end 1
+  - first:
+      4: 400106
+    second: DEF-WheelBrake.Bk.R
+  - first:
+      4: 400108
+    second: DEF-WheelBrake.Bk.R 1
+  - first:
+      4: 400110
+    second: DEF-WheelBrake.Bk.R_end
+  - first:
+      4: 400112
+    second: DEF-WheelBrake.Bk.R_end 1
+  - first:
+      4: 400114
+    second: DEF-WheelBrake.Ft.L
+  - first:
+      4: 400116
+    second: DEF-WheelBrake.Ft.L 1
+  - first:
+      4: 400118
+    second: DEF-WheelBrake.Ft.L_end
+  - first:
+      4: 400120
+    second: DEF-WheelBrake.Ft.L_end 1
+  - first:
+      4: 400122
+    second: DEF-WheelBrake.Ft.R
+  - first:
+      4: 400124
+    second: DEF-WheelBrake.Ft.R 1
+  - first:
+      4: 400126
+    second: DEF-WheelBrake.Ft.R_end
+  - first:
+      4: 400128
+    second: DEF-WheelBrake.Ft.R_end 1
+  - first:
+      4: 400130
+    second: Drift
+  - first:
+      4: 400132
+    second: Drift 1
+  - first:
+      4: 400134
+    second: //RootNode
+  - first:
+      4: 400136
+    second: GroundSensor.Axle.Bk
+  - first:
+      4: 400138
+    second: GroundSensor.Axle.Bk 1
+  - first:
+      4: 400140
+    second: GroundSensor.Axle.Ft
+  - first:
+      4: 400142
+    second: GroundSensor.Axle.Ft 1
+  - first:
+      4: 400144
+    second: GroundSensor.Bk.L
+  - first:
+      4: 400146
+    second: GroundSensor.Bk.L 1
+  - first:
+      4: 400148
+    second: GroundSensor.Bk.R
+  - first:
+      4: 400150
+    second: GroundSensor.Bk.R 1
+  - first:
+      4: 400152
+    second: GroundSensor.Ft.L
+  - first:
+      4: 400154
+    second: GroundSensor.Ft.L 1
+  - first:
+      4: 400156
+    second: GroundSensor.Ft.R
+  - first:
+      4: 400158
+    second: GroundSensor.Ft.R 1
+  - first:
+      4: 400160
+    second: interior
+  - first:
+      4: 400162
+    second: interior.001
+  - first:
+      4: 400164
+    second: licence plate
+  - first:
+      4: 400166
+    second: MCH-Axis
+  - first:
+      4: 400168
+    second: MCH-Axis 1
+  - first:
+      4: 400170
+    second: MCH-Axis.Bk
+  - first:
+      4: 400172
+    second: MCH-Axis.Bk 1
+  - first:
+      4: 400174
+    second: MCH-Axis.Bk_end
+  - first:
+      4: 400176
+    second: MCH-Axis.Bk_end 1
+  - first:
+      4: 400178
+    second: MCH-Axis.Ft
+  - first:
+      4: 400180
+    second: MCH-Axis.Ft 1
+  - first:
+      4: 400182
+    second: MCH-Axis.Ft_end
+  - first:
+      4: 400184
+    second: MCH-Axis.Ft_end 1
+  - first:
+      4: 400186
+    second: MCH-Body
+  - first:
+      4: 400188
+    second: MCH-Body 1
+  - first:
+      4: 400190
+    second: MCH-Body_end
+  - first:
+      4: 400192
+    second: MCH-Body_end 1
+  - first:
+      4: 400194
+    second: MCH-Root.Axle.Bk
+  - first:
+      4: 400196
+    second: MCH-Root.Axle.Bk 1
+  - first:
+      4: 400198
+    second: MCH-Root.Axle.Ft
+  - first:
+      4: 400200
+    second: MCH-Root.Axle.Ft 1
+  - first:
+      4: 400202
+    second: MCH-Root.Axle.Ft_end
+  - first:
+      4: 400204
+    second: MCH-Root.Axle.Ft_end 1
+  - first:
+      4: 400206
+    second: MCH-Steering
+  - first:
+      4: 400208
+    second: MCH-Steering 1
+  - first:
+      4: 400210
+    second: MCH-Steering.rotation
+  - first:
+      4: 400212
+    second: MCH-Steering.rotation 1
+  - first:
+      4: 400214
+    second: MCH-Steering_end
+  - first:
+      4: 400216
+    second: MCH-Steering_end 1
+  - first:
+      4: 400218
+    second: MCH-Suspension.Bk
+  - first:
+      4: 400220
+    second: MCH-Suspension.Bk 1
+  - first:
+      4: 400222
+    second: MCH-Suspension.Bk_end
+  - first:
+      4: 400224
+    second: MCH-Suspension.Bk_end 1
+  - first:
+      4: 400226
+    second: MCH-Suspension.Ft
+  - first:
+      4: 400228
+    second: MCH-Suspension.Ft 1
+  - first:
+      4: 400230
+    second: MCH-Wheel.Bk.L
+  - first:
+      4: 400232
+    second: MCH-Wheel.Bk.L 1
+  - first:
+      4: 400234
+    second: MCH-Wheel.Bk.L_end
+  - first:
+      4: 400236
+    second: MCH-Wheel.Bk.L_end 1
+  - first:
+      4: 400238
+    second: MCH-Wheel.Bk.R
+  - first:
+      4: 400240
+    second: MCH-Wheel.Bk.R 1
+  - first:
+      4: 400242
+    second: MCH-Wheel.Bk.R_end
+  - first:
+      4: 400244
+    second: MCH-Wheel.Bk.R_end 1
+  - first:
+      4: 400246
+    second: MCH-Wheel.Ft.L
+  - first:
+      4: 400248
+    second: MCH-Wheel.Ft.L 1
+  - first:
+      4: 400250
+    second: MCH-Wheel.Ft.L_end
+  - first:
+      4: 400252
+    second: MCH-Wheel.Ft.L_end 1
+  - first:
+      4: 400254
+    second: MCH-Wheel.Ft.R
+  - first:
+      4: 400256
+    second: MCH-Wheel.Ft.R 1
+  - first:
+      4: 400258
+    second: MCH-Wheel.Ft.R_end
+  - first:
+      4: 400260
+    second: MCH-Wheel.Ft.R_end 1
+  - first:
+      4: 400262
+    second: MCH-Wheel.rotation.Bk.L
+  - first:
+      4: 400264
+    second: MCH-Wheel.rotation.Bk.L 1
+  - first:
+      4: 400266
+    second: MCH-Wheel.rotation.Bk.L_end
+  - first:
+      4: 400268
+    second: MCH-Wheel.rotation.Bk.L_end 1
+  - first:
+      4: 400270
+    second: MCH-Wheel.rotation.Bk.R
+  - first:
+      4: 400272
+    second: MCH-Wheel.rotation.Bk.R 1
+  - first:
+      4: 400274
+    second: MCH-Wheel.rotation.Bk.R_end
+  - first:
+      4: 400276
+    second: MCH-Wheel.rotation.Bk.R_end 1
+  - first:
+      4: 400278
+    second: MCH-Wheel.rotation.Ft.L
+  - first:
+      4: 400280
+    second: MCH-Wheel.rotation.Ft.L 1
+  - first:
+      4: 400282
+    second: MCH-Wheel.rotation.Ft.L_end
+  - first:
+      4: 400284
+    second: MCH-Wheel.rotation.Ft.L_end 1
+  - first:
+      4: 400286
+    second: MCH-Wheel.rotation.Ft.R
+  - first:
+      4: 400288
+    second: MCH-Wheel.rotation.Ft.R 1
+  - first:
+      4: 400290
+    second: MCH-Wheel.rotation.Ft.R_end
+  - first:
+      4: 400292
+    second: MCH-Wheel.rotation.Ft.R_end 1
+  - first:
+      4: 400294
+    second: MCH-WheelBrake.Bk.L
+  - first:
+      4: 400296
+    second: MCH-WheelBrake.Bk.L 1
+  - first:
+      4: 400298
+    second: MCH-WheelBrake.Bk.R
+  - first:
+      4: 400300
+    second: MCH-WheelBrake.Bk.R 1
+  - first:
+      4: 400302
+    second: MCH-WheelBrake.Bk.R_end
+  - first:
+      4: 400304
+    second: MCH-WheelBrake.Bk.R_end 1
+  - first:
+      4: 400306
+    second: MCH-WheelBrake.Ft.L
+  - first:
+      4: 400308
+    second: MCH-WheelBrake.Ft.L 1
+  - first:
+      4: 400310
+    second: MCH-WheelBrake.Ft.R
+  - first:
+      4: 400312
+    second: MCH-WheelBrake.Ft.R 1
+  - first:
+      4: 400314
+    second: MCH-WheelBrake.Ft.R_end
+  - first:
+      4: 400316
+    second: MCH-WheelBrake.Ft.R_end 1
+  - first:
+      4: 400318
+    second: MCH-WheelDamper.Bk.L
+  - first:
+      4: 400320
+    second: MCH-WheelDamper.Bk.L 1
+  - first:
+      4: 400322
+    second: MCH-WheelDamper.Bk.L_end
+  - first:
+      4: 400324
+    second: MCH-WheelDamper.Bk.L_end 1
+  - first:
+      4: 400326
+    second: MCH-WheelDamper.Bk.R
+  - first:
+      4: 400328
+    second: MCH-WheelDamper.Bk.R 1
+  - first:
+      4: 400330
+    second: MCH-WheelDamper.Bk.R_end
+  - first:
+      4: 400332
+    second: MCH-WheelDamper.Bk.R_end 1
+  - first:
+      4: 400334
+    second: MCH-WheelDamper.Ft.L
+  - first:
+      4: 400336
+    second: MCH-WheelDamper.Ft.L 1
+  - first:
+      4: 400338
+    second: MCH-WheelDamper.Ft.L_end
+  - first:
+      4: 400340
+    second: MCH-WheelDamper.Ft.L_end 1
+  - first:
+      4: 400342
+    second: MCH-WheelDamper.Ft.R
+  - first:
+      4: 400344
+    second: MCH-WheelDamper.Ft.R 1
+  - first:
+      4: 400346
+    second: MCH-WheelDamper.Ft.R_end
+  - first:
+      4: 400348
+    second: MCH-WheelDamper.Ft.R_end 1
+  - first:
+      4: 400350
+    second: Plane
+  - first:
+      4: 400352
+    second: Plane.001
+  - first:
+      4: 400354
+    second: Root
+  - first:
+      4: 400356
+    second: Root 1
+  - first:
+      4: 400358
+    second: SHP-Drift
+  - first:
+      4: 400360
+    second: SHP-Drift 1
+  - first:
+      4: 400362
+    second: SHP-Drift_end
+  - first:
+      4: 400364
+    second: SHP-Drift_end 1
+  - first:
+      4: 400366
+    second: SHP-GroundSensor.Axle.Bk
+  - first:
+      4: 400368
+    second: SHP-GroundSensor.Axle.Bk 1
+  - first:
+      4: 400370
+    second: SHP-GroundSensor.Axle.Bk_end
+  - first:
+      4: 400372
+    second: SHP-GroundSensor.Axle.Bk_end 1
+  - first:
+      4: 400374
+    second: SHP-GroundSensor.Axle.Ft
+  - first:
+      4: 400376
+    second: SHP-GroundSensor.Axle.Ft 1
+  - first:
+      4: 400378
+    second: SHP-GroundSensor.Axle.Ft_end
+  - first:
+      4: 400380
+    second: SHP-GroundSensor.Axle.Ft_end 1
+  - first:
+      4: 400382
+    second: SHP-GroundSensor.Bk.L
+  - first:
+      4: 400384
+    second: SHP-GroundSensor.Bk.L 1
+  - first:
+      4: 400386
+    second: SHP-GroundSensor.Bk.L_end
+  - first:
+      4: 400388
+    second: SHP-GroundSensor.Bk.L_end 1
+  - first:
+      4: 400390
+    second: SHP-GroundSensor.Bk.R
+  - first:
+      4: 400392
+    second: SHP-GroundSensor.Bk.R 1
+  - first:
+      4: 400394
+    second: SHP-GroundSensor.Bk.R_end
+  - first:
+      4: 400396
+    second: SHP-GroundSensor.Bk.R_end 1
+  - first:
+      4: 400398
+    second: SHP-GroundSensor.Ft.L
+  - first:
+      4: 400400
+    second: SHP-GroundSensor.Ft.L 1
+  - first:
+      4: 400402
+    second: SHP-GroundSensor.Ft.L_end
+  - first:
+      4: 400404
+    second: SHP-GroundSensor.Ft.L_end 1
+  - first:
+      4: 400406
+    second: SHP-GroundSensor.Ft.R
+  - first:
+      4: 400408
+    second: SHP-GroundSensor.Ft.R 1
+  - first:
+      4: 400410
+    second: SHP-GroundSensor.Ft.R_end
+  - first:
+      4: 400412
+    second: SHP-GroundSensor.Ft.R_end 1
+  - first:
+      4: 400414
+    second: SHP-Root
+  - first:
+      4: 400416
+    second: SHP-Root 1
+  - first:
+      4: 400418
+    second: SHP-Root_end
+  - first:
+      4: 400420
+    second: SHP-Root_end 1
+  - first:
+      4: 400422
+    second: Steering
+  - first:
+      4: 400424
+    second: Steering 1
+  - first:
+      4: 400426
+    second: Steering_end
+  - first:
+      4: 400428
+    second: Steering_end 1
+  - first:
+      4: 400430
+    second: Suspension
+  - first:
+      4: 400432
+    second: Suspension 1
+  - first:
+      4: 400434
+    second: Suspension_end
+  - first:
+      4: 400436
+    second: Suspension_end 1
+  - first:
+      4: 400438
+    second: WGT-CarRig.DriftHandle
+  - first:
+      4: 400440
+    second: WGT-CarRig.DriftHandle.001
+  - first:
+      4: 400442
+    second: WGT-CarRig.GroundSensor
+  - first:
+      4: 400444
+    second: WGT-CarRig.GroundSensor.001
+  - first:
+      4: 400446
+    second: WGT-CarRig.GroundSensor.Axle
+  - first:
+      4: 400448
+    second: WGT-CarRig.GroundSensor.Axle.001
+  - first:
+      4: 400450
+    second: WGT-CarRig.Root
+  - first:
+      4: 400452
+    second: WGT-CarRig.Root.001
+  - first:
+      4: 400454
+    second: WGT-CarRig.Steering
+  - first:
+      4: 400456
+    second: WGT-CarRig.Steering.001
+  - first:
+      4: 400458
+    second: WGT-CarRig.Suspension
+  - first:
+      4: 400460
+    second: WGT-CarRig.Suspension.001
+  - first:
+      4: 400462
+    second: WGT-CarRig.Wheel
+  - first:
+      4: 400464
+    second: WGT-CarRig.Wheel.001
+  - first:
+      4: 400466
+    second: WGT-CarRig.WheelBrake
+  - first:
+      4: 400468
+    second: WGT-CarRig.WheelBrake.001
+  - first:
+      4: 400470
+    second: WGT-CarRig.WheelDamper
+  - first:
+      4: 400472
+    second: WGT-CarRig.WheelDamper.001
+  - first:
+      4: 400474
+    second: Wheel.Bk.L
+  - first:
+      4: 400476
+    second: Wheel.Bk.L 1
+  - first:
+      4: 400478
+    second: Wheel.Bk.L_end
+  - first:
+      4: 400480
+    second: Wheel.Bk.L_end 1
+  - first:
+      4: 400482
+    second: Wheel.Bk.R
+  - first:
+      4: 400484
+    second: Wheel.Bk.R 1
+  - first:
+      4: 400486
+    second: Wheel.Bk.R_end
+  - first:
+      4: 400488
+    second: Wheel.Bk.R_end 1
+  - first:
+      4: 400490
+    second: Wheel.Ft.L
+  - first:
+      4: 400492
+    second: Wheel.Ft.L 1
+  - first:
+      4: 400494
+    second: Wheel.Ft.L_end
+  - first:
+      4: 400496
+    second: Wheel.Ft.L_end 1
+  - first:
+      4: 400498
+    second: Wheel.Ft.R
+  - first:
+      4: 400500
+    second: Wheel.Ft.R 1
+  - first:
+      4: 400502
+    second: Wheel.Ft.R_end
+  - first:
+      4: 400504
+    second: Wheel.Ft.R_end 1
+  - first:
+      4: 400506
+    second: WheelBrake.Bk.L
+  - first:
+      4: 400508
+    second: WheelBrake.Bk.L 1
+  - first:
+      4: 400510
+    second: WheelBrake.Bk.L_end
+  - first:
+      4: 400512
+    second: WheelBrake.Bk.L_end 1
+  - first:
+      4: 400514
+    second: WheelBrake.Ft.L
+  - first:
+      4: 400516
+    second: WheelBrake.Ft.L 1
+  - first:
+      4: 400518
+    second: WheelBrake.Ft.L_end
+  - first:
+      4: 400520
+    second: WheelBrake.Ft.L_end 1
+  - first:
+      4: 400522
+    second: WheelDamper.Bk.L
+  - first:
+      4: 400524
+    second: WheelDamper.Bk.L 1
+  - first:
+      4: 400526
+    second: WheelDamper.Bk.R
+  - first:
+      4: 400528
+    second: WheelDamper.Bk.R 1
+  - first:
+      4: 400530
+    second: WheelDamper.Ft.L
+  - first:
+      4: 400532
+    second: WheelDamper.Ft.L 1
+  - first:
+      4: 400534
+    second: WheelDamper.Ft.R
+  - first:
+      4: 400536
+    second: WheelDamper.Ft.R 1
+  - first:
+      4: 400538
+    second: windows glass
+  - first:
+      4: 400540
+    second: windows glass.001
+  - first:
+      4: 400542
+    second: windows glass.002
+  - first:
+      21: 2100000
+    second: orange back light
+  - first:
+      21: 2100002
+    second: roof light
+  - first:
+      21: 2100004
+    second: light dark
+  - first:
+      21: 2100006
+    second: white roof light
+  - first:
+      21: 2100008
+    second: red roof light.001
+  - first:
+      21: 2100010
+    second: roof light stand
+  - first:
+      21: 2100012
+    second: orange roof light
+  - first:
+      21: 2100014
+    second: licence plate
+  - first:
+      21: 2100016
+    second: body
+  - first:
+      21: 2100018
+    second: backwindow
+  - first:
+      21: 2100020
+    second: glass
+  - first:
+      21: 2100022
+    second: interior
+  - first:
+      21: 2100024
+    second: wheel
+  - first:
+      21: 2100026
+    second: brake
+  - first:
+      21: 2100028
+    second: body.001
+  - first:
+      21: 2100030
+    second: interior.001
+  - first:
+      21: 2100032
+    second: glass.001
+  - first:
+      21: 2100034
+    second: wheel.001
+  - first:
+      21: 2100036
+    second: brake.001
+  - first:
+      23: 2300000
+    second: CrownVic.Body
+  - first:
+      23: 2300002
+    second: CrownVic.Body.001
+  - first:
+      23: 2300004
+    second: CrownVic.Wheel.Bk.L
+  - first:
+      23: 2300006
+    second: CrownVic.Wheel.Bk.L.001
+  - first:
+      23: 2300008
+    second: CrownVic.Wheel.Bk.R
+  - first:
+      23: 2300010
+    second: CrownVic.Wheel.Bk.R.001
+  - first:
+      23: 2300012
+    second: CrownVic.Wheel.Ft.L
+  - first:
+      23: 2300014
+    second: CrownVic.Wheel.Ft.L.001
+  - first:
+      23: 2300016
+    second: CrownVic.Wheel.Ft.R
+  - first:
+      23: 2300018
+    second: CrownVic.Wheel.Ft.R.001
+  - first:
+      23: 2300020
+    second: CrownVic.WheelBrake.Bk.L
+  - first:
+      23: 2300022
+    second: CrownVic.WheelBrake.Bk.L.001
+  - first:
+      23: 2300024
+    second: CrownVic.WheelBrake.Bk.R
+  - first:
+      23: 2300026
+    second: CrownVic.WheelBrake.Bk.R.001
+  - first:
+      23: 2300028
+    second: CrownVic.WheelBrake.Ft.L
+  - first:
+      23: 2300030
+    second: CrownVic.WheelBrake.Ft.L.001
+  - first:
+      23: 2300032
+    second: CrownVic.WheelBrake.Ft.R
+  - first:
+      23: 2300034
+    second: CrownVic.WheelBrake.Ft.R.001
+  - first:
+      23: 2300036
+    second: Cube
+  - first:
+      23: 2300038
+    second: Cube.001
+  - first:
+      23: 2300040
+    second: Cube.002
+  - first:
+      23: 2300042
+    second: Cube.003
+  - first:
+      23: 2300044
+    second: Cube.004
+  - first:
+      23: 2300046
+    second: Cube.005
+  - first:
+      23: 2300048
+    second: Cube.006
+  - first:
+      23: 2300050
+    second: Cube.009
+  - first:
+      23: 2300052
+    second: Cube.010
+  - first:
+      23: 2300054
+    second: interior
+  - first:
+      23: 2300056
+    second: interior.001
+  - first:
+      23: 2300058
+    second: licence plate
+  - first:
+      23: 2300060
+    second: Plane
+  - first:
+      23: 2300062
+    second: Plane.001
+  - first:
+      23: 2300064
+    second: WGT-CarRig.DriftHandle
+  - first:
+      23: 2300066
+    second: WGT-CarRig.DriftHandle.001
+  - first:
+      23: 2300068
+    second: WGT-CarRig.GroundSensor
+  - first:
+      23: 2300070
+    second: WGT-CarRig.GroundSensor.001
+  - first:
+      23: 2300072
+    second: WGT-CarRig.GroundSensor.Axle
+  - first:
+      23: 2300074
+    second: WGT-CarRig.GroundSensor.Axle.001
+  - first:
+      23: 2300076
+    second: WGT-CarRig.Root
+  - first:
+      23: 2300078
+    second: WGT-CarRig.Root.001
+  - first:
+      23: 2300080
+    second: WGT-CarRig.Steering
+  - first:
+      23: 2300082
+    second: WGT-CarRig.Steering.001
+  - first:
+      23: 2300084
+    second: WGT-CarRig.Suspension
+  - first:
+      23: 2300086
+    second: WGT-CarRig.Suspension.001
+  - first:
+      23: 2300088
+    second: WGT-CarRig.Wheel
+  - first:
+      23: 2300090
+    second: WGT-CarRig.Wheel.001
+  - first:
+      23: 2300092
+    second: WGT-CarRig.WheelBrake
+  - first:
+      23: 2300094
+    second: WGT-CarRig.WheelBrake.001
+  - first:
+      23: 2300096
+    second: WGT-CarRig.WheelDamper
+  - first:
+      23: 2300098
+    second: WGT-CarRig.WheelDamper.001
+  - first:
+      23: 2300100
+    second: windows glass
+  - first:
+      23: 2300102
+    second: windows glass.001
+  - first:
+      23: 2300104
+    second: windows glass.002
+  - first:
+      33: 3300000
+    second: CrownVic.Body
+  - first:
+      33: 3300002
+    second: CrownVic.Body.001
+  - first:
+      33: 3300004
+    second: CrownVic.Wheel.Bk.L
+  - first:
+      33: 3300006
+    second: CrownVic.Wheel.Bk.L.001
+  - first:
+      33: 3300008
+    second: CrownVic.Wheel.Bk.R
+  - first:
+      33: 3300010
+    second: CrownVic.Wheel.Bk.R.001
+  - first:
+      33: 3300012
+    second: CrownVic.Wheel.Ft.L
+  - first:
+      33: 3300014
+    second: CrownVic.Wheel.Ft.L.001
+  - first:
+      33: 3300016
+    second: CrownVic.Wheel.Ft.R
+  - first:
+      33: 3300018
+    second: CrownVic.Wheel.Ft.R.001
+  - first:
+      33: 3300020
+    second: CrownVic.WheelBrake.Bk.L
+  - first:
+      33: 3300022
+    second: CrownVic.WheelBrake.Bk.L.001
+  - first:
+      33: 3300024
+    second: CrownVic.WheelBrake.Bk.R
+  - first:
+      33: 3300026
+    second: CrownVic.WheelBrake.Bk.R.001
+  - first:
+      33: 3300028
+    second: CrownVic.WheelBrake.Ft.L
+  - first:
+      33: 3300030
+    second: CrownVic.WheelBrake.Ft.L.001
+  - first:
+      33: 3300032
+    second: CrownVic.WheelBrake.Ft.R
+  - first:
+      33: 3300034
+    second: CrownVic.WheelBrake.Ft.R.001
+  - first:
+      33: 3300036
+    second: Cube
+  - first:
+      33: 3300038
+    second: Cube.001
+  - first:
+      33: 3300040
+    second: Cube.002
+  - first:
+      33: 3300042
+    second: Cube.003
+  - first:
+      33: 3300044
+    second: Cube.004
+  - first:
+      33: 3300046
+    second: Cube.005
+  - first:
+      33: 3300048
+    second: Cube.006
+  - first:
+      33: 3300050
+    second: Cube.009
+  - first:
+      33: 3300052
+    second: Cube.010
+  - first:
+      33: 3300054
+    second: interior
+  - first:
+      33: 3300056
+    second: interior.001
+  - first:
+      33: 3300058
+    second: licence plate
+  - first:
+      33: 3300060
+    second: Plane
+  - first:
+      33: 3300062
+    second: Plane.001
+  - first:
+      33: 3300064
+    second: WGT-CarRig.DriftHandle
+  - first:
+      33: 3300066
+    second: WGT-CarRig.DriftHandle.001
+  - first:
+      33: 3300068
+    second: WGT-CarRig.GroundSensor
+  - first:
+      33: 3300070
+    second: WGT-CarRig.GroundSensor.001
+  - first:
+      33: 3300072
+    second: WGT-CarRig.GroundSensor.Axle
+  - first:
+      33: 3300074
+    second: WGT-CarRig.GroundSensor.Axle.001
+  - first:
+      33: 3300076
+    second: WGT-CarRig.Root
+  - first:
+      33: 3300078
+    second: WGT-CarRig.Root.001
+  - first:
+      33: 3300080
+    second: WGT-CarRig.Steering
+  - first:
+      33: 3300082
+    second: WGT-CarRig.Steering.001
+  - first:
+      33: 3300084
+    second: WGT-CarRig.Suspension
+  - first:
+      33: 3300086
+    second: WGT-CarRig.Suspension.001
+  - first:
+      33: 3300088
+    second: WGT-CarRig.Wheel
+  - first:
+      33: 3300090
+    second: WGT-CarRig.Wheel.001
+  - first:
+      33: 3300092
+    second: WGT-CarRig.WheelBrake
+  - first:
+      33: 3300094
+    second: WGT-CarRig.WheelBrake.001
+  - first:
+      33: 3300096
+    second: WGT-CarRig.WheelDamper
+  - first:
+      33: 3300098
+    second: WGT-CarRig.WheelDamper.001
+  - first:
+      33: 3300100
+    second: windows glass
+  - first:
+      33: 3300102
+    second: windows glass.001
+  - first:
+      33: 3300104
+    second: windows glass.002
+  - first:
+      43: 4300000
+    second: Plane.001
+  - first:
+      43: 4300002
+    second: Plane
+  - first:
+      43: 4300004
+    second: Cube.006
+  - first:
+      43: 4300006
+    second: Cube.005
+  - first:
+      43: 4300008
+    second: Cube.003
+  - first:
+      43: 4300010
+    second: Cube.002
+  - first:
+      43: 4300012
+    second: Cube.001
+  - first:
+      43: 4300014
+    second: Cube
+  - first:
+      43: 4300016
+    second: Cube.010
+  - first:
+      43: 4300018
+    second: Cube.009
+  - first:
+      43: 4300020
+    second: Cube.004
+  - first:
+      43: 4300022
+    second: licence plate
+  - first:
+      43: 4300024
+    second: CrownVic.Body
+  - first:
+      43: 4300026
+    second: windows glass.001
+  - first:
+      43: 4300028
+    second: windows glass
+  - first:
+      43: 4300030
+    second: interior
+  - first:
+      43: 4300032
+    second: CrownVic.Wheel.Ft.L
+  - first:
+      43: 4300034
+    second: CrownVic.Wheel.Ft.R
+  - first:
+      43: 4300036
+    second: CrownVic.Wheel.Bk.L
+  - first:
+      43: 4300038
+    second: CrownVic.Wheel.Bk.R
+  - first:
+      43: 4300040
+    second: CrownVic.WheelBrake.Ft.L
+  - first:
+      43: 4300042
+    second: CrownVic.WheelBrake.Ft.R
+  - first:
+      43: 4300044
+    second: CrownVic.WheelBrake.Bk.L
+  - first:
+      43: 4300046
+    second: CrownVic.WheelBrake.Bk.R
+  - first:
+      43: 4300048
+    second: CrownVic.Body.001
+  - first:
+      43: 4300050
+    second: interior.001
+  - first:
+      43: 4300052
+    second: windows glass.002
+  - first:
+      43: 4300054
+    second: CrownVic.Wheel.Ft.L.001
+  - first:
+      43: 4300056
+    second: CrownVic.Wheel.Ft.R.001
+  - first:
+      43: 4300058
+    second: CrownVic.Wheel.Bk.L.001
+  - first:
+      43: 4300060
+    second: CrownVic.Wheel.Bk.R.001
+  - first:
+      43: 4300062
+    second: CrownVic.WheelBrake.Ft.L.001
+  - first:
+      43: 4300064
+    second: CrownVic.WheelBrake.Ft.R.001
+  - first:
+      43: 4300066
+    second: CrownVic.WheelBrake.Bk.L.001
+  - first:
+      43: 4300068
+    second: CrownVic.WheelBrake.Bk.R.001
+  - first:
+      43: 4300070
+    second: WGT-CarRig.DriftHandle.001
+  - first:
+      43: 4300072
+    second: WGT-CarRig.GroundSensor.001
+  - first:
+      43: 4300074
+    second: WGT-CarRig.GroundSensor.Axle.001
+  - first:
+      43: 4300076
+    second: WGT-CarRig.Root.001
+  - first:
+      43: 4300078
+    second: WGT-CarRig.Steering.001
+  - first:
+      43: 4300080
+    second: WGT-CarRig.Suspension.001
+  - first:
+      43: 4300082
+    second: WGT-CarRig.Wheel.001
+  - first:
+      43: 4300084
+    second: WGT-CarRig.WheelBrake.001
+  - first:
+      43: 4300086
+    second: WGT-CarRig.WheelDamper.001
+  - first:
+      43: 4300088
+    second: WGT-CarRig.GroundSensor
+  - first:
+      43: 4300090
+    second: WGT-CarRig.Suspension
+  - first:
+      43: 4300092
+    second: WGT-CarRig.Steering
+  - first:
+      43: 4300094
+    second: WGT-CarRig.WheelBrake
+  - first:
+      43: 4300096
+    second: WGT-CarRig.Wheel
+  - first:
+      43: 4300098
+    second: WGT-CarRig.GroundSensor.Axle
+  - first:
+      43: 4300100
+    second: WGT-CarRig.Root
+  - first:
+      43: 4300102
+    second: WGT-CarRig.DriftHandle
+  - first:
+      43: 4300104
+    second: WGT-CarRig.WheelDamper
+  - first:
+      74: 7400000
+    second: Plane.001|Cube.002Action
+  - first:
+      74: 7400002
+    second: Plane.001|Cube.003Action
+  - first:
+      74: 7400004
+    second: Plane.001|Cube.005Action
+  - first:
+      74: 7400006
+    second: Plane.001|Cube.006Action
+  - first:
+      74: 7400008
+    second: Plane.001|Plane.001Action
+  - first:
+      74: 7400010
+    second: Cube.006|Cube.002Action
+  - first:
+      74: 7400012
+    second: Cube.006|Cube.003Action
+  - first:
+      74: 7400014
+    second: Cube.006|Cube.005Action
+  - first:
+      74: 7400016
+    second: Cube.006|Cube.006Action
+  - first:
+      74: 7400018
+    second: Cube.006|Plane.001Action
+  - first:
+      74: 7400020
+    second: Cube.005|Cube.002Action
+  - first:
+      74: 7400022
+    second: Cube.005|Cube.003Action
+  - first:
+      74: 7400024
+    second: Cube.005|Cube.005Action
+  - first:
+      74: 7400026
+    second: Cube.005|Cube.006Action
+  - first:
+      74: 7400028
+    second: Cube.005|Plane.001Action
+  - first:
+      74: 7400030
+    second: Cube.003|Cube.002Action
+  - first:
+      74: 7400032
+    second: Cube.003|Cube.003Action
+  - first:
+      74: 7400034
+    second: Cube.003|Cube.005Action
+  - first:
+      74: 7400036
+    second: Cube.003|Cube.006Action
+  - first:
+      74: 7400038
+    second: Cube.003|Plane.001Action
+  - first:
+      74: 7400040
+    second: Cube.002|Cube.002Action
+  - first:
+      74: 7400042
+    second: Cube.002|Cube.003Action
+  - first:
+      74: 7400044
+    second: Cube.002|Cube.005Action
+  - first:
+      74: 7400046
+    second: Cube.002|Cube.006Action
+  - first:
+      74: 7400048
+    second: Cube.002|Plane.001Action
+  - first:
+      74: 7400050
+    second: Car Rig|Cube.002Action
+  - first:
+      74: 7400052
+    second: Car Rig|Cube.003Action
+  - first:
+      74: 7400054
+    second: Car Rig|Cube.005Action
+  - first:
+      74: 7400056
+    second: Car Rig|Cube.006Action
+  - first:
+      74: 7400058
+    second: Car Rig|Plane.001Action
+  - first:
+      74: 7400060
+    second: Car Rig.001|Cube.002Action
+  - first:
+      74: 7400062
+    second: Car Rig.001|Cube.003Action
+  - first:
+      74: 7400064
+    second: Car Rig.001|Cube.005Action
+  - first:
+      74: 7400066
+    second: Car Rig.001|Cube.006Action
+  - first:
+      74: 7400068
+    second: Car Rig.001|Plane.001Action
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  - first:
+      74: -623603649343465320
+    second: Scene
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
