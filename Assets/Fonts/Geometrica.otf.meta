@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bb7de6ec41b68463c9100ce5e5254b49
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Geometrica
+  fontNames:
+  - Geometrica
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9b3c1d76b14774589a356fc0c8744bc2, type: 3}
+  - {fileID: 12800000, guid: 9876102c39ad242d194f4833d4a0c669, type: 3}
+  - {fileID: 12800000, guid: f54e13bc0841442da8ba88f652ac8ad8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

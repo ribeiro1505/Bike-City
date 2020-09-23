@@ -396,7 +396,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.5882353}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.39215687}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -745,6 +745,7 @@ MonoBehaviour:
   retryText: {fileID: 0}
   menuText: {fileID: 0}
   scoreText: {fileID: 0}
+  monetizationScript: {fileID: 0}
 --- !u!4 &372020278
 Transform:
   m_ObjectHideFlags: 0
@@ -914,13 +915,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 444215936}
-  m_LocalRotation: {x: -0.035730924, y: -0.5730305, z: -0.025019057, w: 0.8183724}
+  m_LocalRotation: {x: -0.036373604, y: -0.5514116, z: -0.02407516, w: 0.8330922}
   m_LocalPosition: {x: -5, y: 5, z: -8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: -5, y: -70, z: 0}
+  m_LocalEulerAnglesHint: {x: -5, y: -67, z: 0}
 --- !u!1 &511079535
 GameObject:
   m_ObjectHideFlags: 0
@@ -2161,8 +2162,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Game created by:\nGuilherme Ribeiro\ngithub.com/ribeiro1505\n\nMusic by:\nFilipe
-    Jos\xE9\nsoundcloud.com/pipofilete"
+  m_Text: "Game developed by:\nROFT\nroft.pub@gmail.com\n\nMusic by:\nFilipe Jos\xE9\nsoundcloud.com/pipofilete"
 --- !u!222 &1271414449
 CanvasRenderer:
   m_ObjectHideFlags: 0

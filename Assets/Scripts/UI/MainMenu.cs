@@ -6,13 +6,12 @@ using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour{
 
-    public bool isMusicOn = true;
-    public bool isSoundOn = true;
-
     public Text HighScore;
+    public Text Coins;
 
     void Start(){
         HighScore.text = "HighScore: " + PlayerPrefs.GetFloat("HighScore").ToString("0.00") + " Km";
+        Coins.text = "Coins: " + PlayerPrefs.GetInt("Coins");
     }
 
     public void ToGame(){
@@ -29,14 +28,6 @@ public class MainMenu : MonoBehaviour{
 
     public void OpenSettings(){
         SceneManager.LoadScene("Settings");
-    }
-
-    public void MusicClick(){
-        isMusicOn = !isMusicOn;
-    }
-
-    public void SoundClick(){
-        isSoundOn = !isSoundOn;
     }
 
 }
