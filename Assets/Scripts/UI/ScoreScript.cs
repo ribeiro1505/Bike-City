@@ -16,6 +16,9 @@ public RawImage scoreImage;
 public RawImage SpeedImage;
 public RawImage CoinImage;
 
+public AudioSource coinSound;
+public AudioSource diamongSound;
+
 public DeathMenu deathMenu;
 
 private bool isDead;
@@ -39,14 +42,14 @@ PlayerMovement playerMovement;
     }
 
     public void addCoin(){
-        //adicionar som da moeda
+        coinSound.Play();
         coins++;
         coinText.text = (coins).ToString();
         PlayerPrefs.SetInt("Coins", coins);
     }
 
     public void addSpecialCoin(){
-        //adicionar som de moeda especial
+        diamongSound.Play();
         coins+=10;
         coinText.text = (coins).ToString();
         PlayerPrefs.SetInt("Coins", coins);
